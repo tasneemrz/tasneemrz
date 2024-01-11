@@ -1,6 +1,6 @@
-<h1 align="left">Hi 👋, I'm Tasneem</h1>
+<h1 align="center">Hi 👋, I'm Tasneem</h1>
 
-### An aspiring software developer, eager to learn and grow in the field.
+<h3 align="center">An aspiring software developer, eager to learn and grow in the field.</h3>
 
 ###
 
