@@ -4,19 +4,11 @@
 
 ###
 
-<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-
-###
-
 <h2 align="left">Connect with me</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/tasneem-rizwan-7b92a624b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-rizwan-7b92a624b)
 
 ###
 
@@ -24,34 +16,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
-</div>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tasneemrz&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
