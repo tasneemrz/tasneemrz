@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h3 align="left">Connect with me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages and tools</h2>
+<h3 align="left">Languages and tools</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
+<h3 align="left">GitHub Stats</h3>
 
 ###
 
