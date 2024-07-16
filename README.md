@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Tasneem</h2>
+<h1 align="left">Hi 👋, I'm Tasneem</h1>
 
 🔍 I’m currently exploring web development, AI
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h2 align="left">Connect with me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Languages and tools</h3>
+<h2 align="left">Languages and tools</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">GitHub Stats</h3>
+<h2 align="left">GitHub Stats</h2>
 
 ###
 
