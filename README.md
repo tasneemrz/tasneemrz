@@ -1,14 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tasneem</h1>
+<h2 align="left">Hi 👋, I'm Tasneem</h2>
 
-<h3 align="center">An aspiring software developer, eager to learn and grow in the field.</h3>
+🔍 I’m currently exploring web development, AI
 
-- 🌱 I’m currently learning **react.js**
-- 🌟 I am enthusiastic about:
-    - Learning new programming languages and frameworks
-    - Exploring AI and machine learning concepts
-    - Improving my problem-solving skills through coding challenges
-    - Working on exciting projects
-- 📫 How to reach me **tasneemrzwn@gmail.com**
+📫 How to reach me **tasneemrzwn@gmail.com**
 
 ###
 
