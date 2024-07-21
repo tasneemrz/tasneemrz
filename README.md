@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tasneem</h1>
 
-🔍 I’m currently exploring web development, AI
-
-📫 How to reach me **tasneemrzwn@gmail.com**
+🌱 I’m currently learning Web development  
+🔎 Love exploring the field of Artificial Intelligence and Machine Learning   
+🤝 Open to collaborating on interesting projects  
+📫 How to reach me **tasneemrzwn@gmail.com**  
 
 ###
 
